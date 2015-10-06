@@ -1,0 +1,2 @@
+# smileys
+Unicode faces
